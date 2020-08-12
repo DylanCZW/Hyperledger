@@ -2,7 +2,7 @@
 
 
 
-* 该环境搭建由于国内墙的原因以及下载速度关系十分艰辛，主要结合[Hyperledger1.4中的binary手动下载][https://www.cnblogs.com/zongmin/p/11635686.html]以及[Hyperledger2.0前置环境条件搭建][https://www.cnblogs.com/always-kaixuan/p/12398251.html]以及[Hyperledger fabric 发行版2.2的官方文档][https://hyperledger-fabric.readthedocs.io/en/release-2.2/test_network.html]最终成功搭建了Hyperledger fabric v2.2以及fabric-ca1.4.8的环境，并成功跑通了test-network中的例子。
+* 该环境搭建由于国内墙的原因以及下载速度关系十分艰辛，主要结合[Hyperledger1.4中的binary手动下载][https://www.cnblogs.com/zongmin/p/11635686.html] 以及[Hyperledger2.0前置环境条件搭建][https://www.cnblogs.com/always-kaixuan/p/12398251.html] 以及[Hyperledger fabric 发行版2.2的官方文档][https://hyperledger-fabric.readthedocs.io/en/release-2.2/test_network.html] 最终成功搭建了Hyperledger fabric v2.2以及fabric-ca1.4.8的环境，并成功跑通了test-network中的例子。
 * git, curl, wget安装
 ```bash
 sudo apt-get install git || sudo apt-get install curl ||sudo apt-get install wget
